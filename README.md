@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=edoCsItahW&show_icons=true&count_private=true&theme=radical)](https://github.com/edoCsItahW)
+[![GitHub Stats](https://github-profile-views-plum.vercel.app/leetcode/username?theme=dark)](https://github.com/edoCsItahW)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoCsItahW&layout=compact&theme=radical)](https://github.com/edoCsItahW)
